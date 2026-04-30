@@ -35,6 +35,11 @@ Organización del flujo de trabajo bajo la metodología **D-CRISP**, asegurando 
 
 ---
 
+📊 Dataset
+El proyecto utiliza el NEU Surface Defect Database, que incluye seis tipos de defectos superficiales en láminas de acero laminado en caliente: rolled-in scale, patches, crazing, pitted surface, inclusion y scratches.
+
+---
+
 ## 📋 Requisitos y Configuración
 El proyecto utiliza un entorno basado en **PyTorch** y **Jupyter**.
 1. Clonar el repositorio.
